@@ -12,6 +12,10 @@ Estou inicando a programação ainda
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top=langs/?username=jujubizinha&layout=compact&langs_count=165theme=dracula" 
 </div>
   
-<div>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src=https://discord.com/channels/975946124126982155/975946124126982158/1119080694728110090 target="_blank"></a> 
+<div style="display: inside_block"><br>
+  <img align="right" alt="Julia-avatar" src="https://discord.com/channels/975946124126982155/975946124126982158/1119080694728110090"> 
+ </div>
+  
+  <div>
+    ![Snake animation](https://github.com/jujubizinha/blob/output/github-contribution-grid~snake.svg)
   </div>
