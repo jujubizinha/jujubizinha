@@ -1,7 +1,8 @@
 ### Oi!! Sou a Júlia ♡
-•Programadora inciante
-•Estudante de Analise e Desenvolvimento de Sistemas 
-•Front-end web development
+
+•Programadora inciante 💻
+•Estudante de Analise e Desenvolvimento de Sistemas 📖
+•Front-end web development👩‍💻
 
 ##
 <div>
