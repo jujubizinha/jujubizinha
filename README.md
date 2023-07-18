@@ -1,8 +1,12 @@
 ### Oi!! Sou a Júlia ♡
 
 •Programadora inciante 💻!
+
 •Estudante de Ads 📚!
+
 •Front-end web development 👩🏻‍💻!
+
+•Futura Ethical Hacker 📌!
 
 ##
 <div>
