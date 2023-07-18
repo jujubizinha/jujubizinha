@@ -1,10 +1,10 @@
 ### Oi!! Sou a Júlia ♡
 
-•Programadora inciante 💻
+•Programadora inciante 💻!
 
-•Estudante de Ads 📖
+•Estudante de Ads 📚!
 
-•Front-end web development 👩‍💻
+•Front-end web development 👩🏻‍💻!
 
 ##
 <div>
