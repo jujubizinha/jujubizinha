@@ -2,7 +2,7 @@
 
 •Programadora inciante 💻
 
-•Estudante de Analise e Desenvolvimento de Sistemas 📖
+•Estudante de Ads 📖
 
 •Front-end web development 👩‍💻
 
