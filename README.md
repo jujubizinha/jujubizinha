@@ -20,7 +20,7 @@
 <img align="center" alt="Juju-Html" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="Juju-Css" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="Juju-Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
-  <img align="right" alt="juju-avatar" height="192" width="192" src="https://cdn.picrew.me/shareImg/org/202306/338224_lGdQnwV3.png"> 
+
 </div>
 
 ##
