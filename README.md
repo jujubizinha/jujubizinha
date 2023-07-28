@@ -6,7 +6,6 @@
 
 •Front-end web development 👩🏻‍💻!
 
-•Futura Ethical Hacker 📍!
 
 ##
 <div>
