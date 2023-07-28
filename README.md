@@ -1,4 +1,4 @@
-### Oii!! Sou a Júlia Silvestre
+### Oii! Sou a Júlia Silvestre
 
 •Programadora inciante 💻!
 
